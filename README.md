@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Plant Doctor AI 👩‍⚕️🌱
 
 ## Overview
