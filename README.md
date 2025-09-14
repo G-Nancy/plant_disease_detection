@@ -76,8 +76,8 @@ Run the agent with the ADK Web UI with the command: `make web`
 ## Running Tests
 
 Tests assess the overall executability of the agents. All tests are located under the `tests/` directory.
-
 Run tests with the command `make test`
+
 =======
 
 ### Additional - custom trained vision model
