@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: plant-doctor
+Version: 0.0.2
+Summary: A Google Agent for plant disease diagnosis.
+Author-email: Nancy Goyal <nancy@example.com>
+Keywords: agent-packs,adk,agent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pytest-asyncio
+Requires-Dist: tensorflow
+Requires-Dist: numpy
+Requires-Dist: google-adk
+Requires-Dist: google-generativeai
+Requires-Dist: langchain-chroma
+Requires-Dist: langchain-google-genai
+Requires-Dist: langchain_openai
+Requires-Dist: pypdf
+Requires-Dist: openai
+Requires-Dist: chromadb
+Requires-Dist: pyyaml
+Requires-Dist: uvicorn
+Requires-Dist: Pillow
+Requires-Dist: litellm

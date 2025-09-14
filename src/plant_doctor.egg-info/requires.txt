@@ -1,0 +1,15 @@
+pytest-asyncio
+tensorflow
+numpy
+google-adk
+google-generativeai
+langchain-chroma
+langchain-google-genai
+langchain_openai
+pypdf
+openai
+chromadb
+pyyaml
+uvicorn
+Pillow
+litellm

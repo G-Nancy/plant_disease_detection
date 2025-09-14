@@ -1,0 +1,17 @@
+openai.txt
+.venv/
+.ruff_cache/
+__pycache__/
+*.egg_info
+chroma_db_oa/
+*.bin/
+*.bin
+*.pdf
+*.keras
+*.jpg
+*.jpeg
+*.JPG
+bin/
+# Ignore the entire local database directory
+code/chroma_db_oa/
+data/
